@@ -1,0 +1,113 @@
+body {
+	background:#22c522;
+	margin: 0 0 100px;
+	height:650px;
+}
+
+
+html {
+	position:relative;
+	min-height: 100%;
+}
+
+
+header, h1, h2, p {
+    font-family:'Georgia', "Times", "Times New Roman", "serif";
+    
+}
+
+
+#overhead {
+	height:90px;
+	width:100%;
+	background-color: #4713c0;
+    border-bottom: solid #af1a7d;
+	font-size: 18px;
+}
+
+
+#portfolio {
+    float: right;
+    color: #777777;
+    padding: 10px;
+} 
+
+
+#about {
+    float: right;
+    color: #777777;
+    padding: 10px;
+}
+
+
+#contact {
+    float: right;
+    color: #777777;
+    padding: 10px;
+    margin-right: 150px;
+  }
+
+
+#name {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    top: -21px;
+    position: absolute;
+    left: 200px;
+    font-size: 30px;
+    padding: 25px 25px 30px 25px;
+}
+
+
+.aboutContainer {
+    background-color: #7e0b0b;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    padding: 25px 25px 0px 25px;
+    display: inline-block;
+}
+
+
+#bioPicture {
+	float: left;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+
+#aboutMe {
+	color:#4aaaa5;
+	border-bottom: solid #dddddd;	
+}
+
+
+ #aboutBody {
+ 	width:100%;
+ 	background-color: rgb(104, 54, 133);
+ 	font-size: 18px;
+ 	color:#777777;
+}
+
+
+#connect {
+	color: #4aaaa5;
+}
+
+
+
+footer {
+    clear: both;
+    height: 50px;
+    width: 100%;
+    background-color: #666666;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-top: solid 5px #4aaaa5;
+}
