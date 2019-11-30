@@ -1,7 +1,7 @@
 body {
-	background:#22c522;
+	background-image: url(../images/wall.png);
 	margin: 0 0 100px;
-	height:650px;
+    background-size:960px;
 }
 
 
@@ -11,17 +11,20 @@ html {
 }
 
 
-header, h1, h2, p {
-    font-family:'Georgia', "Times", "Times New Roman", "serif";
-    
+header, h1, h2, {
+    font-family:'Georgia', "Times", "Times New Roman", "serif";    
 }
 
 
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #overhead {
 	height:90px;
-	width:100%;
-	background-color: #4713c0;
-    border-bottom: solid #af1a7d;
+    width:100%;
+    background-color: #ffffff;
+    border-bottom: solid #cccccc;
 	font-size: 18px;
 }
 
@@ -45,12 +48,12 @@ header, h1, h2, p {
     color: #777777;
     padding: 10px;
     margin-right: 150px;
-  }
+}
 
 
 #name {
     background-color: #4aaaa5;
-    color: white;
+    color: #ffffff;
     text-align: center;
     top: -21px;
     position: absolute;
@@ -61,7 +64,8 @@ header, h1, h2, p {
 
 
 .aboutContainer {
-    background-color: #7e0b0b;
+    background-color: #ffffff;
+    border: solid 2px #dddddd;
     margin-left: 200px;
     margin-right: 200px;
     margin-top: 30px;
@@ -85,16 +89,10 @@ header, h1, h2, p {
 
  #aboutBody {
  	width:100%;
- 	background-color: rgb(104, 54, 133);
+ 	background-color: #ffffff;
  	font-size: 18px;
  	color:#777777;
 }
-
-
-#connect {
-	color: #4aaaa5;
-}
-
 
 
 footer {
