@@ -1,6 +1,5 @@
 body {
     background-image: url(../images/wall.png);
-    margin: 0 0 100px;
 }
 
 
@@ -65,14 +64,12 @@ p, ::placeholder {
 
 
 .aboutContainer {
-    background-color: #ffffff;
-    border: solid 2px #dddddd;
-    margin-left: 300px;
-    margin-right: 300px;
-    margin-top: 30px;
-    padding: 25px 25px 0px 25px;
-    display: inline-block;
-}
+	background-color: #ffffff;
+    margin: 0px auto;
+    width: 960px;
+	margin-top:30px;
+    overflow: auto;
+ }
 
 
 #bioPicture {
@@ -99,18 +96,16 @@ p, ::placeholder {
 
 .portfolioContainer {
 	background-color: #ffffff;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin: 0px auto;
+    width: 960px;
 	margin-top:30px;
-	padding:20px;
-    border: solid 2px #dddddd;
-    display: inline-block;
+    overflow: auto;
  }
 
 
  .box {
-    height: 180px;
-    width: 240px;
+    height: 200px;
+    width: 300px;
     float: left;
     margin: 10px 30px 30px 0;
     margin-top: 20px;
@@ -140,11 +135,10 @@ p, ::placeholder {
 
 .contactContainer {
 	background-color: #ffffff;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin: 0px auto;
+    width: 960px;
 	margin-top:30px;
-	padding:20px;
-    border: solid 2px #dddddd;
+    overflow: auto;
  }
 
 
