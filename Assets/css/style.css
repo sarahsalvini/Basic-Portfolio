@@ -1,6 +1,10 @@
 body {
     background-image: url(../images/wall.png);
     margin: auto;
+<<<<<<< Updated upstream
+=======
+    padding-bottom: 55px;
+>>>>>>> Stashed changes
 }
 
 
@@ -198,7 +202,11 @@ textarea {
     color: white;
     text-align: center;
     line-height: 50px;
+<<<<<<< Updated upstream
     position: absolute;
+=======
+    position: fixed;
+>>>>>>> Stashed changes
     bottom: 0px;
     margin-bottom: -20px;
     left: 0px;
