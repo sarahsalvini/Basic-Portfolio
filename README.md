@@ -1,5 +1,5 @@
-Unit 01 HTML, CSS, and Git Homework: Portfolio
-Build a professional portfolio site using HTML and CSS following a set of specifications and a style guide.
+<h1>Unit 01 HTML, CSS, and Git Homework: Portfolio</h1>
+<h2>Build a professional portfolio site using HTML and CSS following a set of specifications and a style guide.</h2>
 
 <h2>User Story</h2>
 AS A web developer
