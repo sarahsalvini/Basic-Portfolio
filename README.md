@@ -98,4 +98,7 @@ Give the footer the following CSS: border-top: 8px solid #4aaaa5;
 
 
 Look into these concepts: float, padding, margin, display, overflow, clear and text-align.
+<br>
+<br>
+view site: https://sarahsalvini.github.io/Basic-Portfolio/
 
